@@ -1,11 +1,9 @@
 {
-  "BOTNAME": "SARDAR RDX",
-  "BOTNICK": "{ . } × SARDAR RDX",
+  "BOTNAME": "𝐅𝐀𝐑𝐀𝐁𝐈'𝐒 𝐉𝐀𝐍𝐔 𝐁𝐎𝐓",
+  "BOTNICK": "𝐅𝐀𝐑𝐀𝐁𝐈'𝐒 𝐉𝐀𝐍𝐔",
   "PREFIX": ".",
   "ADMINBOT": [
-    "100009012838085",
-    "61582076572381",
-    "100065216344877"
+    "61573781736874"
   ],
   "REACT_DELETE_EMOJI": "😡",
   "PREFIX_ENABLED": true,
