@@ -27,7 +27,7 @@ module.exports = {
 
     const ownerInfo = `
 ╔═══════════════════════════
-║         🥴 DANI 🥴           
+║        🥴 L͢͡ɛ͡جɜ͜͡ƞd Dʌ͒͢نɪ̽ 🥴           
 ╠═══════════════════════════
 ║                                    
 ║𝐍𝐀𝐌𝐄: DANIYAL BHATTI       
@@ -52,7 +52,7 @@ module.exports = {
 ╠═══════════════════════════
 ║  🤖 𝐁𝐨𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬:           
 ║                           
-║  📛 Name: ${config.BOTNAME || 'SARDAR RDX'}
+║  📛 Name: ${config.BOTNAME || 'Dʌ͒͢نɪ̽'}
 ║  ⚡ Prefix: ${config.PREFIX || '.'}
 ║  💻 Version: 0.5       
 ║  🛠️ Framework: RDX-FCA   
