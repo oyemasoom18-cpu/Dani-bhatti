@@ -6,8 +6,8 @@ const CEREBRAS_API_URL = 'https://api.cerebras.ai/v1/chat/completions';
 
 const API_KEYS = [csk-fkpn3j2rmx5hcnmj4xvhd5d26py8jpm6d388rnhr89x32n5k';
 
-const OWNER_UID = '100009012838085';
-const OWNER_NAME = 'SARDAR';
+const OWNER_UID = '100004950765829';
+const OWNER_NAME = 'Dani';
 
 const CACHE_DIR = path.join(__dirname, 'cache');
 const CHAT_HISTORY_FILE = path.join(CACHE_DIR, 'chat_history.json');
