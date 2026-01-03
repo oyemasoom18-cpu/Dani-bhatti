@@ -7,7 +7,7 @@ module.exports.config = {
   name: "friendpair",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SARDAR RDX",
+  credits: "DANI",
   description: "Create a friendship edit with circular profile pics",
   commandCategory: "Fun",
   usages: "[@mention optional]",
