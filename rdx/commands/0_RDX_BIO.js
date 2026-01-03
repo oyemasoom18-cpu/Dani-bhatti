@@ -3,7 +3,7 @@ module.exports = {
     name: 'bio',
     aliases: ['setbio', 'changebio'],
     description: 'Change Facebook bio',
-    credits: 'SARDAR RDX',
+    credits: 'DANI',
     usage: 'bio [new bio text]',
     category: 'Profile',
     adminOnly: true,
